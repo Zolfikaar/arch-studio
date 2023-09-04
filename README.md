@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/arch-studio-responsive-multipage-website-mcEnI0g3YU)
+- Live Site URL: [Link](https://zolfikaar.github.io/arch-studio/)
 
 ## My process
 
